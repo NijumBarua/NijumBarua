@@ -12,7 +12,7 @@ I am currently an undergraduate student<br>Looking to collaborate on Al/ML unive
 
 
 📊 GitHub Stats
-(https://github-readme-stats.vercel.app/api?username=NijumBarua&theme=dark&hide_border=false&include_all_commits=false&count_private=false) 
+
 🔥 Streak Stats
 ![Nijum Barua's streak](https://nirzak-streak-stats.vercel.app/?user=NijumBarua&theme=dark&hide_border=false) [attached_file:1
 
