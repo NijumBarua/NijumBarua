@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently an undergraduate student<br>Looking to collaborate on Al/Ml universe<br>I am currently learning Next.js<br>
+I am currently an undergraduate student<br>Looking to collaborate on Al/ML universe<br>I am currently learning Next.js<br>
 
 
 ## 🌐 Socials:
