@@ -13,13 +13,12 @@ I am currently an undergraduate student<br>Looking to collaborate on Al/ML unive
 
 📊 GitHub Stats
 
-🔥 Streak Stats
-![Nijum Barua's streak](https://nirzak-streak-stats.vercel.app/?user=NijumBarua&theme=dark&hide_border=false) [attached_file:1
 
-✍️ Random Dev Quote
+![Nijum Barua's streak](https://nirzak-streak-stats.vercel.app/?user=NijumBarua&theme=dark&hide_border=false) 
+
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-![](https://visitcount.itsvg.in/api?id=Nijum Barua&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
