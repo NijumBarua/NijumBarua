@@ -2,6 +2,8 @@
 I am currently an undergraduate student<br>Looking to collaborate on Al/ML universe<br>I am currently learning Next.js<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvir464&label=Profile%20views&color=0e75b6&style=flat" alt="tanvir464" /> </p>
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nijum-barua-b7a159257/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/NijumBarua) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:01884335521nijum@gmail.com) 
 
