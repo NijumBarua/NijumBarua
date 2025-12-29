@@ -19,6 +19,9 @@ I am currently an undergraduate student<br>Looking to collaborate on Al/ML unive
 ![Nijum Barua's streak](https://nirzak-streak-stats.vercel.app/?user=NijumBarua&theme=dark&hide_border=false) 
 
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=20&fontColor=fff&animation=twinkling" />
+
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
